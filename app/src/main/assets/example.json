@@ -1,0 +1,62 @@
+{
+  "resultdata": {
+    "student": [
+      {
+        "id": 1,
+        "name": "Arun",
+        "school": "G-School"
+      },
+      {
+        "id": 2,
+        "name": "Ziya",
+        "school": "B-School"
+      },
+      {
+        "id": 3,
+        "name": "Ram",
+        "school": "L-School"
+      },
+      {
+        "id": 4,
+        "name": "Priya",
+        "school": "C-School"
+      },
+      {
+        "id": 5,
+        "name": "Jane",
+        "school": "G-School"
+      },
+      {
+        "id": 6,
+        "name": "Sarath",
+        "school": "C-School"
+      },
+      {
+        "id": 7,
+        "name": "Ziya",
+        "school": "U-School"
+      },
+      {
+        "id": 8,
+        "name": "Elena",
+        "school": "R-School"
+      },
+      {
+        "id": 9,
+        "name": "Manu",
+        "school": "Z-School"
+      },
+      {
+        "id": 10,
+        "name": "Shyam",
+        "school": "E-School"
+      },
+      {
+        "id": 2,
+        "name": "June",
+        "school": "Y-School"
+      }
+
+    ]
+  }
+}
